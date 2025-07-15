@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "mind-map using d3,js",
   "main": "index.ts",
+  "homepage": "https://github.com/btinker/d3-mind-map-ur",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html",
