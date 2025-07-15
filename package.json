@@ -8,7 +8,7 @@
     "start": "parcel index.html",
     "prebuild": "rmdir dist /s /q",
     "build": "parcel build index.html",
-    "predeploy": "rmdir dist /s /q && parcel build index.html --public-url ./",
+    "predeploy": "rm -rf dist && parcel build index.html --public-url ./",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
