@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "mind-map using d3,js",
   "main": "index.ts",
+  "homepage": "https://github.com/btinker/d3-mind-map-ur"
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html",
@@ -13,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kdashivantha/d3-mind-map.git"
+    "url": "git+https://github.com/btinker/d3-mind-map-ur.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kdashivantha/d3-mind-map/issues"
+    "url": "https://github.com/btinker/d3-mind-map-ur/issues"
   },
-  "homepage": "https://github.com/kdashivantha/d3-mind-map#readme",
+  "homepage": "https://github.com/btinker/d3-mind-map-ur#readme",
   "devDependencies": {
     "gh-pages": "^2.1.1",
     "parcel-bundler": "^1.12.4",
